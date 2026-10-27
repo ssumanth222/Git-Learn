@@ -1,8 +1,1 @@
-This is a sample File created by Sai @16:52 - 27/10/26
-
-Forgot to add another update:
-
-File updated by Sai @19:09
-
-Entered the wrong time, Updating the time to 19:30
-File modified by Sai @19:30
+# Starting work on printing the output in console
